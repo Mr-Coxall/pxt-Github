@@ -19,3 +19,4 @@ Read more at https://arcade.makecode.com/extensions
 * for PXT/arcade
 (The metadata above is needed for package search.)
 
+``||game.splash("GitHub")||``
