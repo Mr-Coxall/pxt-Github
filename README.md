@@ -10,5 +10,6 @@
 
  Hello, World! Tutorial
  
- ``||game.splash("Hello, World!")||``
- 
+```blocks
+game.splash("GitHub")
+```
